@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# Data Science Tools",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "_ hello_",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "hi",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "*** hello ***",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "- apple\n- go\n- kio",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## ",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "summarized.",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**objective **",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "* objective:*",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "** hello**",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### popular Lang are:",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "** hello. **",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "1. python\n2. SQL\n3. R",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### some of the lib are:",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "1. matploylib\n2. plotly\n3. scikit learn",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "|Data Science tools|\n|-------------------|\n|Jupyter Notebook|\n|RStudio|\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "|fruit|veg|\n|------|----|\n|apple|carrot|",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### few ex of arithmetic operations ",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "(3*4)+5",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 2,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "17"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 2
+    },
+    {
+      "cell_type": "code",
+      "source": "2×3",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "ename": "<class 'SyntaxError'>",
+          "evalue": "invalid character '×' (U+00D7) (<ipython-input-3-b0d4a310caa6>, line 1)",
+          "traceback": [
+            "\u001b[0;36m  Cell \u001b[0;32mIn[3], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    2×3\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid character '×' (U+00D7)\n"
+          ],
+          "output_type": "error"
+        }
+      ],
+      "execution_count": 3
+    },
+    {
+      "cell_type": "code",
+      "source": "2+3",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 4,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "5"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 4
+    },
+    {
+      "cell_type": "code",
+      "source": "200%60",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 5,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "20"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 5
+    },
+    {
+      "cell_type": "code",
+      "source": "200&60",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 6,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "8"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 6
+    },
+    {
+      "cell_type": "code",
+      "source": "200/6",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 7,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "33.333333333333336"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 7
+    },
+    {
+      "cell_type": "code",
+      "source": "int x=200/6\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "markdown",
+      "source": "x",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## author",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "hi",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    }
+  ]
+}
